@@ -2,3 +2,14 @@
 |--------|--------|---------|
 | Jonas  | 16     | Vilnius |
 | Aistė  | 15     | Kaunas  |
+
+<table>
+  <tr>
+    <th>Vardas</th>
+    <th>Amžius</th>
+  </tr>
+  <tr>
+    <td>Jonas</td>
+    <td>16</td>
+  </tr>
+</table>
