@@ -1,0 +1,23 @@
+Kryžiukai nuliukai (X, O)
+
+Langeliai: 3x3
+Laimėjimas: 3
+Ėjimų eiga: X → O
+
+Kryžiukai nuliukai trikampėliai (X, O, △)
+
+Langeliai: 4x4
+Laimėjimas: 3
+Ėjimų eiga: X → O → △
+
+Kryžiukai nuliukai trikampėliai rombai (X, O, △, ◇)
+
+Langeliai: 5x5
+Laimėjimas: 3
+Ėjimų eiga: X → O → △ → ◇
+
+Kryžiukai nuliukai trikampėliai rombai žvaigždutės (X, O, △, ◇, ★)
+
+Langeliai: 5x5
+Laimėjimas: 3
+Ėjimų eiga: X → O → △ → ◇ → ★
