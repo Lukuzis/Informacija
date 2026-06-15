@@ -28,10 +28,11 @@ Papildomi reikmenys: nėra
 
 5. Atmušimas
 
-Sukūrė: Lukas Tankeliavičius
-Sukurta: 2023 m.
+Sukūrė ir patobulino: Lukas Tankeliavičius
+Sukurta: 2022 m.
+Patobulinta: 2026 m.
 Papildomi reikmenys: kamuoliai
-Žaidimo taisyklės:
+Žaidimo taisyklės: Pradžioje visi vaskina ir kas pralaimi, tas yra vada. Vada visą laiką turi būti batuto viduryje ir mėtyti į kitus kamuolį. Kiti žaidėjai turi bėgioti palei batuto kraštą ratu ir su savo turimu kamuoliu atmušti vados metamą kamuolį. Į ką pataiko kamuolys, tas iškrenta iš žaidimo. Laimėtojas yra tas, kuris vienintelis liko rate. Papildoma taisyklė: kai bet kas sušunka „op!“, visi turi pakeisti bėgimo kryptį; šis šūksnis neturėtų būti per dažnas.
 
 6. Bezdalius
 
@@ -108,3 +109,27 @@ Sukurta: 2023 m.
 Patobulinta: 2026 m.
 Papildomi reikmenys: bombaškės
 Žaidimo taisyklės: Pradžioje žaidėjai išsivaskina kas pralaimės ir bus vada. Po vaskinimo vada pasiima kažkiek bombaškių, atsistoja batuto viduryje ir skaičiuoja iki 3. Tada pradeda į kitus mėtyti bombaškes. Į ką susprogsta bombaškė, tas tampa nauja vada vietoj kitos vados. Tuomet nauja vada tęsia gaudynes su bombaškėmis toliau jas mėtydama. Kad būtų įdomiau žaisti, žaidimo pradžioje galima susitarti po kiek gyvybių kiekvienas žaidėjas turės. O žaidimo eigoje, kai kas nors kitas tampa vada, naujoji vada praranda vieną gyvybę. Laimėtojas yra tas, kuris vienintelis išlieka su daugiau nei 0 gyvybių.
+
+16. Išprotėjęs akumuliatorius
+
+Sukūrė: Pijus Tankeliavičius
+Sukurta: 2023 m.
+Papildomi reikmenys: nėra
+Žaidimo taisyklės: Pradžioje visi vaskina ir kas laimi, tas tampa „išprotėjusiu akumuliatoriu“. Jis batuto viduryje atsigula ant nugaros, sulenkia kojas ir jas apglėbia su rankomis (susirietimas į kamuoliuką atsigulus ant nugaros). Roundo pradžioje „išprotėjęs akumuliatorius“ yra pasikrovęs 0 procentų, o kad jis pasikrautų, reikia, kad kiti šokinėtų aplinkui bandydami kuo labiau iššokdinti bateriją; kuo smarkiau išsišokdina, tuo greičiau pasikrauna. Kadangi tai yra išprotėjęs akumuliatorius, jis nebūtinai turi krautis tolygiai ar normaliai. Vienu momentu gali būti 69%, kitu - 0,024%, paskiau netgi žemiau nulio (pvz.: -580%); taip pat gali pradžioje krautis labai greitai, o paskiau labai lėtai, nors kiti aplinkui šokinėja taip pat; galima ir dar įvairiausių nesąmonių sugalvoti. Kiek jau yra pasikrovęs, gali pasakyti bet kada. Galiausiai, kai „išprotėjęs akumuliatorius“ pasikrauna, jis atsistoja ant keturių ir pradeda kitus gaudyti įvairiais būdais, priklausomai nuo to, kelintas roundas dabar yra (gaudymo manevrai surašyti šio žaidimo taisyklių gale). Kas yra pagaunamas, tas tampa „negyvu“, krenta, būtų negyvėlis ir pasilieka gulėti ten, kur buvo pričiuptas (fizinis barjeras kitiems, dar „gyviems“ žaidėjams). Laimėtojas yra tas, kuris vienintelis lieka nepričiuptas arba buvo sučiuptas paskutinis. Gali būti ir keli laimėtojai, jeigu po „išprotėjusio akumuliatoriaus“ išsikrovimo lieka keli nepričiupti žaidėjai. Po „išprotėjusio akumuliatoriaus“ išsikrovimo, jis vėl susiriečia į kamuoliuką batuto viduryje ir vėl viskas kartojasi pradedant nauju roundu.
+Gaudymo manevrai rounduose:
+1. Nustatyti kryptį į bet kurį žaidėją ir tiesiai šokti kaip varlei, paskui per kelis pašokimus pasisukti ir vėl nustačius kryptį šokti; roundui einant gali vis greitėti tempas ir net atsirasti pasisukimai į žaidėją šokant.
+2. 
+
+17. Kamanės
+
+Sukūrė: Lukas Tankeliavičius
+Sukurta: 2026 m.
+Papildomi reikmenys: kamuolys
+Žaidimo taisyklės: kamanės: visi turi išvengti kamuolio iki kol jos baigiasi
+
+18. Kamera
+
+Sukūrė: Lukas Tankeliavičius
+Sukurta: 2022 m.
+Papildomi reikmenys: nėra
+Žaidimo taisyklės: Pradžioje visi vaskina ir kas pralaimi, tas yra „kamera“. Ji turi stovėti batuto pakrašty atsisukusi į tinklą. Prieš roundą kamera pasako, ką visi turi daryti (pvz.: sustingti, monotoniškai daryti atsispaudimus ir pan.) ir kokia bausmė bus įvykdyta to nedarant (pvz.: užkutens). Kai roundas prasideda, „kamera“ be paliovos labai lėtai sukasi ir turi stebėti, ar kiti žaidėjai vykdo jos paliepimą, kai jinai juos mato. Jeigu kuris nors žaidėjas nevykdo paliepimo, „kamera“ nustoja suktis, pradeda pirštais skaičiuoti nuo 10 iki 0 visada žiūrėdama į prasižengusįjį. Tada pradeda jį gaudyti, o sugavusi įvykdo pažadėtą bausmę; visą tą laiką kiti turi toliau vykdyti tai, ką privalo (nes ir juos pradės gaudyti), o prasižengusysis - stengtis išsisukti nuo „kameros“ žabangų. Po šio veiksmo roundas pasibaigia ir išrenkama nauja „kamera“. Laimėtojas tarp vykdytojų yra tas, kuris mažiausiai kartų buvo pričiuptas; laimėtojas tarp kamerų yra tas, kuris procentiškai daugiausiai sugavo prasižengusiųjų.
