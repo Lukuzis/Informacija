@@ -125,21 +125,21 @@ Patobulinta: 2026 m.
 Papildomi reikmenys: nėra
 Žaidimo taisyklės: Pradžioje žaidėjai išsivaskina kas pralaimės ir bus vada. Po vaskinimo vada stovi batuto viduryje ir skaičiuoja iki 3. Tada pradeda kitus gaudyti. Kai vada paliečia ką nors kitą arba vadą kas nors paliečia, tas kitas žaidėjas tampa vada vietoj buvusio vados. tuomet nauja vada suskaičiuoja iki 3 ir vėl gaudynės tęsiasi. Kad būtų įdomiau žaisti, žaidimo pradžioje galima susitarti po kiek gyvybių kiekvienas žaidėjas turės. O žaidimo eigoje, kai kas nors kitas tampa vada, naujoji vada praranda vieną gyvybę. Laimėtojas yra tas, kuris vienintelis išlieka su daugiau nei 0 gyvybių.
 
-14. Gaudynės su kamuoliu
-
-Sukūrė ir patobulino: Lukas Tankeliavičius
-Sukurta: 2022 m.
-Patobulinta: 2026 m.
-Papildomi reikmenys: kamuolys
-Žaidimo taisyklės: Pradžioje žaidėjai išsivaskina kas pralaimės ir bus vada. Po vaskinimo vada pasiima kamuolį, atsistoja batuto viduryje ir skaičiuoja iki 3. Tada pradeda į kitus mėtyti kamuolį. Kas paliečia kamuolį, tas tampa nauja vada vietoj kitos vados. Tuomet nauja vada pasiima kamuolį ir tęsia gaudynes su kamuoliu. Kad būtų įdomiau žaisti, žaidimo pradžioje galima susitarti po kiek gyvybių kiekvienas žaidėjas turės. O žaidimo eigoje, kai kas nors kitas tampa vada, naujoji vada praranda vieną gyvybę. Laimėtojas yra tas, kuris vienintelis išlieka su daugiau nei 0 gyvybių.
-
-15. Gaudynės su bombaškėmis
+14. Gaudynės su bombaškėmis
 
 Sukūrė ir patobulino: Lukas Tankeliavičius
 Sukurta: 2023 m.
 Patobulinta: 2026 m.
 Papildomi reikmenys: bombaškės
 Žaidimo taisyklės: Pradžioje žaidėjai išsivaskina kas pralaimės ir bus vada. Po vaskinimo vada pasiima kažkiek bombaškių, atsistoja batuto viduryje ir skaičiuoja iki 3. Tada pradeda į kitus mėtyti bombaškes. Į ką susprogsta bombaškė, tas tampa nauja vada vietoj kitos vados. Tuomet nauja vada tęsia gaudynes su bombaškėmis toliau jas mėtydama. Kad būtų įdomiau žaisti, žaidimo pradžioje galima susitarti po kiek gyvybių kiekvienas žaidėjas turės. O žaidimo eigoje, kai kas nors kitas tampa vada, naujoji vada praranda vieną gyvybę. Laimėtojas yra tas, kuris vienintelis išlieka su daugiau nei 0 gyvybių.
+
+15. Gaudynės su kamuoliu
+
+Sukūrė ir patobulino: Lukas Tankeliavičius
+Sukurta: 2022 m.
+Patobulinta: 2026 m.
+Papildomi reikmenys: kamuolys
+Žaidimo taisyklės: Pradžioje žaidėjai išsivaskina kas pralaimės ir bus vada. Po vaskinimo vada pasiima kamuolį, atsistoja batuto viduryje ir skaičiuoja iki 3. Tada pradeda į kitus mėtyti kamuolį. Kas paliečia kamuolį, tas tampa nauja vada vietoj kitos vados. Tuomet nauja vada pasiima kamuolį ir tęsia gaudynes su kamuoliu. Kad būtų įdomiau žaisti, žaidimo pradžioje galima susitarti po kiek gyvybių kiekvienas žaidėjas turės. O žaidimo eigoje, kai kas nors kitas tampa vada, naujoji vada praranda vieną gyvybę. Laimėtojas yra tas, kuris vienintelis išlieka su daugiau nei 0 gyvybių.
 
 16. Išprotėjęs akumuliatorius
 
@@ -292,105 +292,112 @@ Sukurta: 2021 m.
 Papildomi reikmenys: nėra
 Žaidimo taisyklės:
 
-35. Propeleris
+35. Pavojingasis dronas
+
+Sukūrė: Lukas Tankeliavičius
+Sukurta: 2024 m.
+Papildomi reikmenys: dronas
+Žaidimo taisyklės:
+
+36. Propeleris
 
 Sukūrė: Lukas Tankeliavičius
 Sukurta: 2021 m.
 Papildomi reikmenys: nėra
 Žaidimo taisyklės
 
-36. Pusės
+37. Pusės
 
 Sukūrė: Jonas Šapranauskas
 Sukurta: 2021 m.
 Papildomi reikmenys: nėra
 Žaidimo taisyklės:
 
-37. Sklindžiai
+38. Sklindžiai
 
 Sukūrė: Lukas Tankeliavičius ir Jonas Šapranauskas
 Sukurta: 2023 m.
 Papildomi reikmenys: nėra
 Žaidimo taisyklės:
 
-38. Statinė
+39. Statinė
 
 Sukūrė: Miglė Šapranauskaitė
 Sukurta: 2023 m.
 Papildomi reikmenys: nėra
 Žaidimo taisyklės:
 
-39. Šaudynės
+40. Šaudynės
 
 Sukūrė: Lukas Tankeliavičius
 Sukurta: 2018 m.
 Papildomi reikmenys: kamuoliai
 Žaidimo taisyklės:
 
-40. Šinšilos
+41. Šinšilos
 
 Sukūrė: Lukas Tankeliavičius
 Sukurta: 2022 m.
 Papildomi reikmenys: kamuoliai
 Žaidimo taisyklės:
 
-41. Šinšilų slėpynės
+42. Šinšilų slėpynės
 
 Sukūrė: Lukas Tankeliavičius
 Sukurta: 2022 m.
 Papildomi reikmenys: kamuoliai
 Žaidimo taisyklės:
 
-42. Širšės
+43. Širšės
 
 Sukūrė: Jonas Šapranauskas
 Sukurta: 2022 m.
 Papildomi reikmenys: nėra
 Žaidimo taisyklės:
 
-43. Talent to Show
+44. Talent to Show
 
 Sukūrė: Adrianas
 Sukurta: 2020 m.
 Papildomi reikmenys: nėra
 Žaidimo taisyklės:
 
-44. Tapiras
+45. Tapiras
 
 Sukūrė: Jonas Šapranauskas
 Sukurta: 2023 m.
 Papildomi reikmenys: kamuoliai
 Žaidimo taisyklės:
 
-45. Ugnikalnis
+46. Ugnikalnis
 
 Sukūrė: Lukas Tankeliavičius
 Sukurta: 2024 m.
 Papildomi reikmenys: kamuoliai ir bombaškės
 Žaidimo taisyklės:
 
-46. Uraganas
+47. Uraganas
 
 Sukūrė: Lukas Tankeliavičius
 Sukurta: 2024 m.
 Papildomi reikmenys: kamuoliai, bombaškės, sėdmaišis, lauko rūbai
 Žaidimo taisyklės:
 
-47. Vandens mūšis
+48. Vandens mūšis
 
 Sukūrė: Lukas Tankeliavičius
 Sukurta: 2026 m.
 Papildomi reikmenys: bombaškės
 Žaidimo taisyklės:
 
-48. Vulkanas
+49. Vulkanas
 
 Sukūrė: Jonas Šapranauskas
 Sukurta: 2022 m.
 Papildomi reikmenys: kamuoliai
 Žaidimo taisyklės:
 
-49. Žvejys
+50. Žvejys
 
 Sukūrė: Jonas Šapranauskas
 Sukurta: 2021 m.
