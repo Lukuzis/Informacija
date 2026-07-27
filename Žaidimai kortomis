@@ -29,9 +29,9 @@ Apytikslė trukmė: (žaidėjų skaičius)x(5-10) min
 Kortų tipas: žaidimo kortos
 Naudojamos kortos: nuo dvejetų, šešetų arba devynetų iki tūzų, priklausomai nuo žaidėjų skaičiaus (kuo daugiau žaidėjų, tuo daugiau kortų); svarbu, kad kortų kiekis dalintųsi iš žaidėjų kiekio
 Tikslas: rinkti po 4 vienodas kortas ir stengtis nesurinkti pilno žodžio "ASILAS"
-Žaidimo taisyklės: pasirenkamas kortų kiekis (priklausomai nuo žaidėjų kiekio), visos atrinktos kortos išmaišomos ir išdalinamos visiems žaidėjams po lygiai. Žaidėjai išsirenka kas pradės žaidimą ir nuo jo pradedama pervesti kortas paeiliui pagal laikrodžio rodyklę. Pasirenkama bet kokia korta iš turimų ir perduodama kairėje esančiam žaidėjui kitiems tos kortos nematant. Žaidėjas, gavęs kortą taip pat išsirenka bet kurią iš turimų ir siunčia toliau. Taip vyksta kortų maišymasis iki kol kažkuris žaidėjas surenka 4 vienodas kortas. Tas žaidėjas deda ranką į stalo vidurį ir sako tų vienodų kortų pavadinimą (pavyzdžiui, septynetai). Visi kiti žaidėjai turi kaip įmanoma greičiau sudėti rankas į vidurį. Kas paskutinis uždeda ranką, tas gauna sekančią raidę žodžio "ASILAS". Pavyzdžiui, jei žaidėjas turi raides "AS", jis gauna dar vieną raidę I ir jau dabartinis žodis yra "ASI"; jeigu žaidėjas dar neturi raidžių, gauna pirmą raidę A. Po to, kai kažkuris gauna raidę, išmetamos surinktos kortos ir pasiskirstomos likusios kortos tarp žaidėjų po lygiai. Jeigu visi turi mažuau nei po 4 kortas, paimamos išmestos kortos, išmaišomos ir išdalinamos visiems po lygiai. Tada tęsiamas žaidimas – pradeda tas, kuris surinko 4 vienodas kortas. Tas, kuris surenka pilną žodį "ASILAS", tas iškrenta iš žaidimo. Laimėtojas yra tas, kuris vienintelis liko neiškritęs iš žaidimo.
+Žaidimo taisyklės: Pasirenkamas kortų kiekis (priklausomai nuo žaidėjų kiekio), visos atrinktos kortos išmaišomos ir išdalinamos visiems žaidėjams po lygiai. Žaidėjai išsirenka kas pradės žaidimą ir nuo jo pradedama pervesti kortas paeiliui pagal laikrodžio rodyklę. Pasirenkama bet kokia korta iš turimų ir perduodama kairėje esančiam žaidėjui kitiems tos kortos nematant. Žaidėjas, gavęs kortą taip pat išsirenka bet kurią iš turimų ir siunčia toliau. Taip vyksta kortų maišymasis iki kol kažkuris žaidėjas surenka 4 vienodas kortas. Tas žaidėjas deda ranką į stalo vidurį ir sako tų vienodų kortų pavadinimą (pavyzdžiui, septynetai). Visi kiti žaidėjai turi kaip įmanoma greičiau sudėti rankas į vidurį. Kas paskutinis uždeda ranką, tas gauna sekančią raidę žodžio "ASILAS". Pavyzdžiui, jei žaidėjas turi raides "AS", jis gauna dar vieną raidę I ir jau dabartinis žodis yra "ASI"; jeigu žaidėjas dar neturi raidžių, gauna pirmą raidę A. Po to, kai kažkuris gauna raidę, išmetamos surinktos kortos ir pasiskirstomos likusios kortos tarp žaidėjų po lygiai. Jeigu visi turi mažuau nei po 4 kortas, paimamos išmestos kortos, išmaišomos ir išdalinamos visiems po lygiai. Tada tęsiamas žaidimas – pradeda tas, kuris surinko 4 vienodas kortas. Tas, kuris surenka pilną žodį "ASILAS", tas iškrenta iš žaidimo. Laimėtojas yra tas, kuris vienintelis liko neiškritęs iš žaidimo.
 
-2. Blackjack (arba 21)
+2. Blekdžekas (arba 21)
 
 Sukūrė: GP
 Įvedė: Augustas Červinskas
@@ -40,6 +40,24 @@ Sukurta: NV
 Žaidėjų skaičius: 2
 Apytikslė trukmė: 1 min vienam raundui; pats žaidimas trunka tiek, kiek nori žaidėjai
 Kortų tipas: žaidimo kortos
-Naudojamos kortos: visos, išskyrus joker'iai
+Naudojamos kortos: visos, išskyrus jokeriai
 Tikslas: surinkti kuo daugiau taškų neviršijant 21
+Žaidimo taisyklės: Išsirenkama kuris žaidėjas bus dyleris (angl. dealer). Dyleris išmaišo kortas ir padalina po dvi sau ir kitam žaidėjui. Dylerio viena korta turi būti atversta, kita – užversta. Žaidėjo turi būti abi atverstos. Kai išdalinama, žaidėjas gali sakyti "hit" arba "stand". Kai žaidėjas pasako "hit", dyleris atverčia dar vieną kortą šalia jos; jeigu bendra žaidėjo kortų suma viršija 21, jis pralaimi ir dyleris laimi; jeigu suma lygi 21, žaidėjas iš karto laimi, o dyleris pralaimi; jei suma nesiekia 21, žaidėjas toliau gali sakyti "hit" arba "stand". Kai žaidėjas pasako "stand", žaidėjui nebeduodamos kortos, dyleris atverčia savo užverstą kortą ir verčia sau vis naujas iki kol taškų suma pasirkia arba viršija 21. Jeigu po atverstos kortos dylerio suma viršija žaidėjo (tačiau neviršija 21), tada dyleris laimi; jei po atverstos kortos viršijamas 21, dyleris pralaimi. Po to, kai baigiasi partija, pradedama viskas iš naujo (galima pakeisti dylerį arba sekantį žaidėją (jeigu yra eilė laukiančių pažaisti)).
+Kortų vertės taškais: Nuo dvejetų iki dešimtukų vertė atitinka kortos skaičių. Veidai atitinka 10 taškų. Tuzo vertė yra 11, tačiau jeigu su tokia verte viršijamas 21, tai tūzo vertė nuleidžiama iki 1.
+
+3. Durnius
+
+Sukūrė: GP
+Patobulinta: GP
+Įvedė: Jonas Šapranauskas
+Patobulinimą įvedė: Augustas Červinskas
+Sukurta: NV
+Patobulinta: NV
+Įvesta: 2024 m.
+Patobulinimas įvestas: 2026 m.
+Žaidėjų skaičius: 2-6
+Apytikslė trukmė: 5-10 min
+Kortų tipas: žaidimo kortos
+Naudojamos kortos: visos, neskaitant jokerių (kai žaidėjų yra 4-6) arba nuo šešetų iki tūzų (kai žaidėjų yra 2-4)
+Tikslas: atsikratyti visų kortų
 Žaidimo taisyklės:
