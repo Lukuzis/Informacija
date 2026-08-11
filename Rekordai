@@ -44,11 +44,13 @@ Dalyvių surinkti įvertinimai (dalyvis – blunder – mistake – inaccuracy �
 
 APSISUKIMAS ORE PAŠOKUS ANT BATUTO
 
-Visų pirma reikia gerai išsišokdinti ant batuto ir tik tada, kai jau neliečiamas batutas, galima suktis aplink save. Vos paliečiamas batutas, užfiksuojamas apsukto kampo dydis. Matuojant rekordą batute gali būti tik vienas žmogus ir jame negali būti jokių kitų daiktų. Rekordus matuoja išorėje esantis, kampus matuoti patyręs, žomgus.
+Visų pirma reikia gerai išsišokdinti ant batuto ir tik tada, kai jau neliečiamas batutas, galima suktis aplink save. Vos paliečiamas batutas, užfiksuojamas apsukto kampo dydis. Matuojant rekordą batute gali būti tik vienas žmogus ir jame negali būti jokių kitų daiktų. Rekordus matuoja išorėje esantis, kampus matuoti patyręs, žmogus.
 
-1. Pijus Tankeliavičius – 810° – ?/?/?
-2. Lukas Tankeliavičius – ? – ?/?/?
-3. ...
+1. Pijus Tankeliavičius – 810° – 2023/05/30
+2. Lukas Tankeliavičius – 720° – 2023/05/30
+3. Luka Tankeliavičiūtė – 630° – 2023/05/30
+4. Adomas Baslyk – 540° – 2023/06/01
+5. Aurėja Baslyk – 450° – 2023/05/30
 
 
 AUKŠČIAUSIAS BOKŠTAS IŠ KORTŲ
@@ -81,13 +83,18 @@ MAŽIAUSIO POPIERINIO LĖKTUVĖLIO IŠLANKSTYMAS
 NUŠOKIMAS NUO SŪPYNIŲ Į TOLĮ
 
 
+STOVĖJIMAS VIENOJE VIETOJE PER ŽAIDIMĄ "AUKŠTYN ŽEME"
+
+
 TIESIAUSIOS LINIJOS BRĖŽIMAS
 
 
+TRUMPIAUSIAS LAIKAS TARP DVIEJŲ PASPAUDIMŲ
+
+Paspaudimai daromi https://scratch.mit.edu/projects/1367992145/ Scratch projekte. Galima spausti tik su vienu pirštu. Paspaudimus tikrina teisėjas, rezultatus užfiksuoja programėlė. Galima daryti kelis bandymus. Geriausias bandymas (asmeninis rekordas) yra įrašomas į rekordus. Laikas matuojamas milisekundžių tikslumu.
+
+
 TURTINGUMAS PAGAL OR-M KVARTALO VALIUTĄ
-
-
-STOVĖJIMAS VIENOJE VIETOJE PER ŽAIDIMĄ "AUKŠTYN ŽEME"
 
 
 VAŽIAVIMAS DVIRAČIU BE RANKŲ
@@ -107,6 +114,8 @@ Rekordų matavimas suformuotas pagal chess.com žaidimo peržiūros pagrindinius
 
 1. Apsisukimas ore pašokus ant batuto
 
+Apsuktas kampas laipsniais
+
 Blunder – 180°
 Mistake – 270°
 Inaccuracy – 360°
@@ -114,10 +123,106 @@ Book – 450°
 Good – 540°
 Excellent – 630°
 Best – 720°
-Great – 900°
-Brilliant – 1080°
+Great – 810°
+Brilliant – 900°
 
+2. Aukščiausias bokštas iš kortų
 
+Bokšto aukštis aukštais
+
+Blunder – 1
+Mistake – 2
+Inaccuracy – 3
+Book – 4
+Good – 5
+Excellent – 6
+Best – 7
+Great – 8
+Brilliant – 10
+
+3. Didžiausias statinys iš plus-plus detalių
+
+Statinio dydis detalėmis
+
+Blunder – 100
+Mistake – 200
+Inaccuracy – 300
+Book – 500
+Good – 750
+Excellent – 1000
+Best – 1250
+Great – 1500
+Brilliant – 2000
+
+4. Greičiausias važiavimas dviračiu
+
+Didžiausias pasiektas greitis, km/h
+
+Blunder – 10
+Mistake – 15
+Inaccuracy – 20
+Book – 25
+Good – 30
+Excellent – 35
+Best – 40
+Great – 45
+Brilliant – 50
+
+5. Greičiausias važiavimas paspirtuku
+
+Didžiausias pasiektas greitis, km/h
+
+Blunder – 5
+Mistake – 10
+Inaccuracy – 12
+Book – 15
+Good – 17
+Excellent – 20
+Best – 25
+Great – 30
+Brilliant – 40
+
+6. Išsilaikymas ant vieno stulpo
+
+Išsilaikymo trukmė minutėmis
+
+Blunder – 0:10
+Mistake – 0:30
+Inaccuracy – 1:00
+Book – 3:00
+Good – 5:00
+Excellent – 10:00
+Best – 20:00
+Great – 30:00
+Brilliant – 1:00:00
+
+7. Laimėjimai lenktynėse
+
+Laimėjimų lenktynėse ir dalyvavimų lenktynėse santykis
+
+Blunder – 0 %
+Mistake – 15 %
+Inaccuracy – 30 %
+Book – 50 %
+Good – 60 %
+Excellent – 70 %
+Best – 80 %
+Great – 90 %
+Brilliant – 100 %
+
+8. Laimėjimai loterijose
+
+Laimėjimų loterijose ir dalyvavimų loterijose santykis
+
+Blunder – 0 %
+Mistake – 2 %
+Inaccuracy – 5 %
+Book – 10 %
+Good – 20 %
+Excellent – 35 %
+Best – 50 %
+Great – 80 %
+Brilliant – 100 %
 
 Blunder – 
 Mistake – 
@@ -129,8 +234,6 @@ Best –
 Great – 
 Brilliant – 
 
-
-
 Blunder – 
 Mistake – 
 Inaccuracy – 
@@ -141,7 +244,15 @@ Best –
 Great – 
 Brilliant – 
 
-
+Blunder – 
+Mistake – 
+Inaccuracy – 
+Book – 
+Good – 
+Excellent – 
+Best – 
+Great – 
+Brilliant – 
 
 Blunder – 
 Mistake – 
